@@ -3,3 +3,5 @@
 
 requires: to specify what modules are required by this module
 exports: to specify which package can be available to the outside world.
+
+package should eb exported and module should be specified in requires, else not visible.

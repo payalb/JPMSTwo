@@ -1,0 +1,5 @@
+
+1 app can have multiple modules. One module can use other modules.
+
+requires: to specify what modules are required by this module
+exports: to specify which package can be available to the outside world.
